@@ -1,0 +1,12 @@
+Hello everyone! This is console based Airline reservation system. In this application admin can maintain all of the flight operations. On the other hand user can book their desire ticket from the server. Thank you!
+
+* Ahmed, Asif - 21-44388-1
+
+* Sakib, Safkat Mahmud - 21-44389-1
+
+* Haque, Ashraful - 21-44391-1
+
+* Sobnom Mostary Afrin - 21-44537-1
+ 
+ 
+ 
